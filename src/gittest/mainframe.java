@@ -38,7 +38,7 @@ public class mainframe extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
-		
+		//新建一个面板
 		JPanel panel = new JPanel();
 		contentPane.add(panel, BorderLayout.CENTER);
 		//新建一个label
